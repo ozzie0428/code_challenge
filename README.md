@@ -1,5 +1,8 @@
 # Code Challenge
 
+## Create Virtual Env
+ - create a virtual environment
+
 ## Install Dependencies
  - python pip install -r requirements.txt
 
